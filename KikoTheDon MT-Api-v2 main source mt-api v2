@@ -1,8 +1,3 @@
-Sure, I'll go through the script and make corrections where necessary. 
-
-Here's the modified script:
-
-```lua
 if not getgenv().MTAPIDebug and getgenv().MTAPIMutex ~= nil then return end
 
 local a = {}
