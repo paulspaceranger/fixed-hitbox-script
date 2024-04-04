@@ -29,8 +29,8 @@ local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/violi
 local SaveManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/addons/SaveManager.lua'))()
 SaveManager:SetLibrary(Library)
 SaveManager:SetFolder("HitboxExtender")
-Library:Notify("hai :3")
-local mainWindow = Library:CreateWindow("Personal object of abuse")
+Library:Notify("gyatmaster47 was here")
+local mainWindow = Library:CreateWindow("Universal Hitbox Expander (Stilsky's version)")
 
 local mainTab = mainWindow:AddTab("Main")
 local mainGroupbox = mainTab:AddLeftGroupbox("Hitbox Extender")
